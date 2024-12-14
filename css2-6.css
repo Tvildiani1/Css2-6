@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+#main_Container {
+    background: #E4EBFF;
+    margin-top: 64px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 268px;
+    max-width: 1500px;
+    width: 100%;
+    height: 2344px;
+    padding: 45px;
+  
+}
+
+#header {
+    background: #FFF;
+    margin: auto;
+    height: 2248px;
+    max-width: 1280px;
+    width: 100%;
+    padding-top: 96px;
+    padding-bottom: 96px;
+}
+
+
+#features {
+    color: #6941C6;
+    text-align: center;
+    font-size: 16px;
+}
+
+h1 {
+    color: #181D27;
+    font-size: 40px;
+    text-align: center;
+}
+
+#header_P {
+    color: #535862;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 185px;
+
+}
+
+#main {
+    width: 1280px;
+    height: 512px;
+    margin-bottom: 101px;
+   
+}
+
+/* Oneeee */
+
+#inbox_Left {
+    width: 470px;
+    height: 400px;
+    padding-left: 32px;
+    padding-right: 32px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 101px;
+}
+   
+
+#messagelogo {
+    padding: 12px;
+}
+
+#left_H {
+    color: #181D27;
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+#left_P {
+    color: #535862;
+    font-size: 18px;
+    margin-bottom: 32px;
+}
+#checklogo {
+    vertical-align: middle;
+    margin-right: 12px;
+
+}
+
+#check_One {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+}
+
+#middle {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#inbox_Right {
+    width: 702px;
+    height: 501px;
+    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+
+}
+
+
+/* twoo */
+
+#inbox_Lefttwo {
+    width: 702px;
+    height: 501px;
+    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+    margin-bottom: 101px;
+
+}
+
+#messagelogotwo {
+    vertical-align: middle;
+    margin: 0px;
+}
+
+#inbox_righttwo {
+    width: 470px;
+    height: 400px;
+    padding-left: 32px;
+    padding-right: 32px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 101px;
+}
+
+#inbox_Leftthree {
+    width: 580px;
+    height: 400px;
+    padding-left: 32px;
+    padding-right: 32px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+#inbox_Rightthree {
+    width: 650px;
+    height: 501px;
+    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+}
